@@ -21,3 +21,4 @@ public class PlayerController : MonoBehaviour
         rb2d.AddForce(movement*speed);
     }
 }
+ 
